@@ -9,8 +9,8 @@
  <strong>О приложении:</strong>
   <ul>
   <li>Для проверки приложения используется район=2, дата = 2024-10-25 16:20:00</li>
-  <li>База данных использовалась SQL lite, посмотреть данные можно в классе DbInitializer;</li>
-  <li>Для записи логов использованиpackage Serilog.Extensions.Logging.File. Логи пишутся в Logs/log-{дата}.txt</li>
+  <li>База данных использовал SQL lite, посмотреть данные можно в классе DbInitializer;</li>
+  <li>Для записи логов использованил package Serilog.Extensions.Logging.File. Логи пишутся в Logs/log-{дата}.txt</li>
       <li>Для тестов использовал XUnit;</li>      
 </ul>
 
